@@ -298,7 +298,7 @@
 | Easy_RWKV_webui | [![Star](https://img.shields.io/github/stars/No-22-Github/Easy_RWKV_webui.svg?style=social&label=Star)](https://github.com/No-22-Github/Easy_RWKV_webui) | | 基于 PyWebIO 的 RWKV 模型在线聊天室。 |
 | Mini Model Daemon | [![Star](https://img.shields.io/github/stars/recursal/minmodmon.svg?style=social&label=Star)](https://github.com/recursal/minmodmon) | | 基于 web-rwkv 推理后端的 RWKV 模型推理工具。 |
 | frank_esp32 | [![Star](https://img.shields.io/github/stars/lsk-china/frank_esp32.svg?style=social&label=Star)](https://github.com/lsk-china/frank_esp32) | | 基于 RWKV 的 Firefly 聊天机器人硬件实现 |
-| rwkv.cpp | [![Star](https://img.shields.io/github/stars/RWKV/rwkv.cpp.svg?style=social&label=Star)](https://github.com/RWKV/rwkv.cpp) |  |将 RWKV-LM 移植到 ggml，支持在 CPU 上进行模型推理 |
+| RWKV_Role_Playing_with_GPT-SoVITS | [![Star](https://img.shields.io/github/stars/v3ucn/RWKV_Role_Playing_with_GPT-SoVITS.svg?style=social&label=Star)](https://github.com/v3ucn/RWKV_Role_Playing_with_GPT-SoVITS) |  | 基于 RWKV 角色扮演 WebUI，集成 GPT-SoVITS 语音合成功能，实现中文角色扮演语音对话。 |
 
 ---
 
